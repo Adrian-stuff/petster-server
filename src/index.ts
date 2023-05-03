@@ -46,7 +46,7 @@ app.post(
           "mammal",
           "bird",
           "reptile",
-          "fish",
+          "pet",
           "insect",
         ];
         const hasAnimals = objects.some((object) => animals.includes(object));
